@@ -2,7 +2,7 @@ package com.mj.gof_abstract_factory_pattern.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.mj.gof_abstract_factory_pattern.Factory.PackageFactory
+import com.mj.gof_abstract_factory_pattern.factory.PackageFactory
 import com.mj.gof_abstract_factory_pattern.R
 
 class MainActivity : AppCompatActivity() {
