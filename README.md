@@ -1,0 +1,2 @@
+# gof_abstract_factory_pattern
+gof_abstract_factory_pattern
